@@ -12,6 +12,8 @@
     ],
     "require": {
         "atha/javascript": "^1.0",
-        "atha/javascript-dom": "^1.0"
+        "atha/javascript-dom": "^1.0",
+        "atha/jquery": "^1.0",
+        "atha/middle-js": "^1.0"
     }
 }
