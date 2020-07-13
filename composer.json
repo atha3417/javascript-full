@@ -1,0 +1,17 @@
+{
+    "name": "atha/javascript-full",
+    "description": "Just javascript code",
+    "keywords": ["javascript", "js"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ],
+    "require": {
+        "atha/javascript": "^1.0",
+        "atha/javascript-dom": "^1.0"
+    }
+}
